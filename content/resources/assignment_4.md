@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006/b0d9c46505ed2f286505172a15c060b5_assignment_4.pdf
+file: /media/courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006/b0d9c46505ed2f286505172a15c060b5_assignment_4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assignment_4.pdf
 uid: b0d9c465-05ed-2f28-6505-172a15c060b5

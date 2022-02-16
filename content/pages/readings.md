@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 382186e4-0e29-fd3a-0cd0-2d55fe4886d8
 ---
@@ -44,7 +47,7 @@ Fershtman, Chaim, and Uri Gneezy. "Discrimination in a Segmented Society: An Exp
   
 Holland, Paul W. "Statistics and Causal Inference." _Journal of the American Statistical Association_ 81, no. 396 (1986): 945-960.  
   
-Mobius, Markus M., and Tanya S. Rosenblatt. "Why Beauty Matters." _American Economic Review_ 96 (2006 forthcoming). ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.3553&rep=rep1&type=pdf))#  
+Mobius, Markus M., and Tanya S. Rosenblatt. "Why Beauty Matters." _American Economic Review_ 96 (2006 forthcoming). ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.3553&rep=rep1&type=pdf)){{< sup "#" >}}  
   
 Steele, Claude. "A Threat in the Air: How Stereotypes Shape the Intellectual Identities and Performance of Women and African Americans." _American Psychologist_ 52, no. 6 (1997): 613-629.  
   
