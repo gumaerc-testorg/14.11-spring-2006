@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section talks about the topic 14.11, summary of research topics,
+  summary of methodological topics and calander.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
