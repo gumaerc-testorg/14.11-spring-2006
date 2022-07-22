@@ -7,6 +7,7 @@ file: /courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-ec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec12.pdf
 uid: 0ae53673-81ae-ce87-eefe-6ee19102a2f9
 ---
 This resource contains alternating-offer bargaining game, 3-Period truncated game, infinite horizon alternating-offer game and conclusions of basic economic models of bargaining.
-

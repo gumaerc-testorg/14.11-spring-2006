@@ -5,6 +5,7 @@ file: /courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-ec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec11.pdf
 uid: 5811c6b0-0b40-6e9e-0150-b5ae50ec347a
 ---
 This resource contains information on voter mobilization.
-

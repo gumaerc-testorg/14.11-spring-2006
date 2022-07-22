@@ -5,6 +5,7 @@ file: /courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-ec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec2.pdf
 uid: 3e2e6d4d-30ef-5dce-8087-8fce24d10b27
 ---
 This resource contains information on the impact of subsidies.
-

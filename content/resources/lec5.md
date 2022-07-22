@@ -5,6 +5,7 @@ file: /courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-ec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec5.pdf
 uid: 901e2a13-48dd-bb07-94bb-ef164dde8205
 ---
 This resource contains information on fairness and entitlements.
-

@@ -6,6 +6,7 @@ file: /courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-ec
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assignment_8.pdf
 uid: f658696b-32d9-bafe-254e-3c65603e2db2
 ---
 This resource contains problems to test students understanding of course material.
-
