@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains problems to test students understanding of course
   material.
-file: /courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006/035d1b5004c23ef69299bce1d1857331_assignment_7.pdf
+file: /ol-ocw-studio-app/courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006/035d1b5004c23ef69299bce1d1857331_assignment_7.pdf
+file_size: 37780
 file_type: application/pdf
 learning_resource_types:
 - Assignments
